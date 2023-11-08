@@ -8,7 +8,7 @@
 ## Rede Social <a href="https://www.linkedin.com/in/carlos-eduardo-sousa-silva-35297a1ba/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white /n" /> 
 
 
-
+## Rede Social <a href="https://www.linkedin.com/in/carlos-eduardo-sousa-silva-35297a1ba/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/" target="_blank">
 
 <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlooss89&bg_color=00000000&https://github.com/anuraghazra/github-readme-stats" />
 <img  height="182em" src="https://github-readme-stats.vercel.app/api?username=carlooss89&show_icons=true&bg_color=00000000" />
